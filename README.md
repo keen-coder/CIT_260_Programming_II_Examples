@@ -1,2 +1,2 @@
-# -CIT_260_Programming_II_Examples
+# CIT 260 Programming II Examples
 Code examples for my CIT-260 Programming II Course
